@@ -1,4 +1,4 @@
-from SifreKontrolu import Kontroller as sk
+from kullaniciVarmı import Kontroller as sk
 import os
 import time
 
